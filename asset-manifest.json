@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Razorpay/static/css/main.00638ee2.css",
+    "main.js": "/Razorpay/static/js/main.e4e44c95.js",
+    "static/js/787.b1469802.chunk.js": "/Razorpay/static/js/787.b1469802.chunk.js",
+    "static/media/background.png": "/Razorpay/static/media/background.ba8aea8d6fba54bc0679.png",
+    "static/media/edyoda.png": "/Razorpay/static/media/edyoda.6c14c00eb4a67e4702f8.png",
+    "index.html": "/Razorpay/index.html",
+    "main.00638ee2.css.map": "/Razorpay/static/css/main.00638ee2.css.map",
+    "main.e4e44c95.js.map": "/Razorpay/static/js/main.e4e44c95.js.map",
+    "787.b1469802.chunk.js.map": "/Razorpay/static/js/787.b1469802.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00638ee2.css",
+    "static/js/main.e4e44c95.js"
+  ]
+}
